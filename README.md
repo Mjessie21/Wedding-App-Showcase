@@ -25,17 +25,17 @@ A rendszer komplex entitáskapcsolatokat kezel (Venue, Service, User, BookingReq
 
 ## Képernyőképek
 <p align="center">
-  <img src="bejelentkezes.jpg" width="30%" title="Bejelentkezés" alt="Bejelentkezés" />
-  <img src="fooldal.jpg" width="30%" title="Kezdőlap" alt="Kezdőlap" />
-  <img src="helyszinek.jpg" width="30%" title="Helyszínek listája" alt="Helyszínek listája" />
+  <img src="screenshots/bejelentkezes.jpg" width="30%" title="Bejelentkezés" alt="Bejelentkezés" />
+  <img src="screenshots/fooldal.jpg" width="30%" title="Kezdőlap" alt="Kezdőlap" />
+  <img src="screenshots/helyszinek.jpg" width="30%" title="Helyszínek listája" alt="Helyszínek listája" />
 </p>
 <p align="center">
-  <img src="adatlap.jpg" width="30%" title="Helyszín adatlapja" alt="Helyszín adatlapja" />
-  <img src="datumvalaszto.jpg" width="30%" title="Dátum kiválasztása" alt="Dátum kiválasztása" />
-  <img src="ajanlatkeres.jpg" width="30%" title="Ajánlatkérés véglegesítése" alt="Ajánlatkérés véglegesítése" />
+  <img src="screenshots/adatlap.jpg" width="30%" title="Helyszín adatlapja" alt="Helyszín adatlapja" />
+  <img src="screenshots/datumvalaszto.jpg" width="30%" title="Dátum kiválasztása" alt="Dátum kiválasztása" />
+  <img src="screenshots/ajanlatkeres.jpg" width="30%" title="Ajánlatkérés véglegesítése" alt="Ajánlatkérés véglegesítése" />
 </p>
 <p align="center">
-  <img src="ajanlataim.jpg" width="30%" title="Foglalások áttekintése" alt="Foglalások áttekintése" />
+  <img src="screenshots/ajanlataim.jpg" width="30%" title="Foglalások áttekintése" alt="Foglalások áttekintése" />
 </p>
 
 ---
